@@ -10,7 +10,6 @@ A robust backend system to manage API access using subscription plans, API key-b
 - **Spring Security** (API Key Auth)
 - **JPA + Hibernate** (ORM)
 - **MySQL**
-- **Rate Limiting**: Bucket4j or Custom
 - **JUnit + Mockito** (Testing)
 - **Swagger** (API Docs)
 - **Postman** Collection
